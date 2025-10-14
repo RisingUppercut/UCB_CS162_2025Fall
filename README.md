@@ -8,3 +8,4 @@ Watching lecture recordings and slides from 22spring.
 ~~- reading chap 3~~
 - reading 4.8.2
 - confused about 4.8.2
+- reading 5.1 - 5.3
