@@ -1,3 +1,10 @@
+# Projects
+- The projects folder in this repo contains the design documents of each project.
+- This repo: https://github.com/RisingUppercut/cs162_group, contains code for each project, the commit "done projx" is the finished points of each project.
+
+
+
+
 # Doing
 
 Watching lecture recordings and slides from 22spring.
