@@ -17,4 +17,4 @@ Doing disc from 24Spring.
 - reading 4.8.2
 - confused about 4.8.2
 ~~- reading 5.1 - 5.3~~
-- reading 7.1 - 7.2
+~~- reading 7.1 - 7.2~~
