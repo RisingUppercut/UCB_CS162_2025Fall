@@ -18,4 +18,5 @@ Doing disc from 24Spring.
 - confused about 4.8.2
 ~~- reading 5.1 - 5.3~~
 ~~- reading 7.1 - 7.2~~
-- reading 7.4&7.6
+~~- reading 7.4&7.6~~
+- reading chap6
