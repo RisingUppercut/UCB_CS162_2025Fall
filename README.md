@@ -19,5 +19,6 @@ Doing disc from 24Spring.
 ~~- reading 5.1 - 5.3~~
 ~~- reading 7.1 - 7.2~~
 ~~- reading 7.4&7.6~~
-- reading chap6, done until 6.3，RCU
+~~- reading chap6, done until 6.3，RCU~~
+- done chap6 except 6.3-6.5
 - reading chap8
