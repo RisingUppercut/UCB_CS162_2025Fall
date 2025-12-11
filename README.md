@@ -23,3 +23,4 @@ Doing disc from 24Spring.
 - done chap6 except 6.3-6.5
 - reading chap8，done8.1
 - reading chap9
+- reading chap10 & 12
